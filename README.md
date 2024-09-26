@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sameer Mujeeb
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning algorithms
+- 🌱 I’m currently learning TensorFlow
 - 💞️ I’m looking to collaborate on ML and DS projects
 - 📫 How to reach me https://www.linkedin.com/in/sameer-mujeeb-87353114a/
 

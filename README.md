@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sameer Mujeeb
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning Convolutional Neural Networks (CNN).
+- 🌱 I’m currently learning about Convolutional Neural Networks (CNN).
 - 💞️ I’m looking to collaborate on ML and DS projects
 - 📫 How to reach me https://www.linkedin.com/in/sameer-mujeeb-87353114a/
 
